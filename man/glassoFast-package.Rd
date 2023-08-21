@@ -13,12 +13,12 @@ This algorithm also avoid non-termination issues observed for the "glasso" funct
 \tabular{ll}{
 Package: \tab glassoFast\cr
 Type: \tab Package\cr
-Version: \tab 1.0.0\cr
+Version: \tab 1.0.1\cr
 Date: \tab 2017-06-07\cr
 License: \tab GPL (>=3.0)\cr
 }
 
-The original FORTRAN Subroutine is available from:
+The original FORTRAN Subroutine was taken from (now broken link):
 
 http://www.cs.utexas.edu/users/sustik/glassofast/
 

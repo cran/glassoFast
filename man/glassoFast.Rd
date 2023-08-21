@@ -6,7 +6,7 @@ Fast graphical LASSO
 %%  ~~function to do ... ~~
 }
 \description{
-This function is a faster alternative to the "glasso" function in the glasso package (Friedman et al. 2008). This package is based on the algorithm (FORTRAN subroutine) of Sustik and Calderhead (2012).
+This function is a faster alternative to the "glasso" function in the glasso package (Friedman et al. 2008). This package uses the algorithm (FORTRAN subroutine) of Sustik and Calderhead (2012).
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
